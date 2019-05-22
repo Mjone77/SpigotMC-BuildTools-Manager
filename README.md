@@ -3,7 +3,7 @@ Provides a simple interface for interacting with SpigotMC's BuildTools.
 
 ## Features
 * Easy to use: Just double-click to run
-* Asks user for which versio of Spigot to build, then builds that version
+* Asks user for which version of Spigot to build, then builds that version
 * Automatically downloads the latest version of BuildTools if it is not already in the same folder as the manager is ran.
 * No dependencies
 
